@@ -1,4 +1,4 @@
 Function-Library
 ================
 
-php常用函数库
+个人开发中php常用函数库
